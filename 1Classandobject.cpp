@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-//class is bluprint of object
+//Class is the bluprint of object
 class Employee{
 public:
     string Name;

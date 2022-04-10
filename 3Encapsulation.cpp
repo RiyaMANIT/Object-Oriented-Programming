@@ -5,7 +5,7 @@
 
 #include<bits/stdc++.h>
 using namespace std;
-//class is bluprint of object
+//Class is bluprint of object
 class Employee{
 
 private: //these are inaccessible..so we need methods so that it will become accessible..getters and setters are those required functions
